@@ -1,3 +1,3 @@
-export MGMT_PROJECT=<the project where you deploy your management cluster>
-export MGMT_NAME=<name of your management cluster>
-export LOCATION=<location of your management cluster>
+export MGMT_PROJECT=tali-multi-modal
+export MGMT_NAME=mastros
+export LOCATION=us-central1
